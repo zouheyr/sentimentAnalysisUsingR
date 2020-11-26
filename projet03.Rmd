@@ -1,0 +1,13 @@
+---
+output:
+  pdf_document: 
+    toc: yes
+  html_notebook: default
+  html_document:
+    toc: true
+    toc_float: true
+author: Zouheyr Ayas
+date: "Nov 21, 2020"
+title: "MKA-6005 TRAVAIL INDIVIDUEL 04"
+---
+
