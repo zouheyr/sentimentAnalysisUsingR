@@ -55,15 +55,7 @@ To run sentiment analysis:
 3. View the results:
    After processing, results and visualizations will be saved in the `/output` folder.
 
----
 
-## Contributing
-
-Contributions are welcome! If you'd like to contribute:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Submit a pull request.
 
 ---
 
