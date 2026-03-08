@@ -61,17 +61,4 @@ To run sentiment analysis:
 
 ## License
 
-This project is open-source. Feel free to use, modify, and distribute it as needed.
-
----
-
-## Contact
-
-For questions or suggestions, feel free to reach out:
-
-- GitHub: [zouheyr](https://github.com/zouheyr)
-- Open an issue: [Issue Tracker](https://github.com/zouheyr/sentimentAnalysisUsingR/issues)
-
----
-
-Happy Analyzing!
+This project is open-source. Feel free to use, modify, and distribute it 
